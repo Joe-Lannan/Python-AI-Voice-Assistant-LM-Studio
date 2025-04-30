@@ -1,0 +1,5 @@
+*
+!.gitignore
+!voice_chat.py
+!requirements.txt
+!LICENSE

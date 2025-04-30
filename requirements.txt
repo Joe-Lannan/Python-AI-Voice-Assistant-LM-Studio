@@ -1,0 +1,9 @@
+sounddevice==0.4.5
+queue==0.1.0
+json==2.0.9
+requests==2.28.2
+wave==0.0.2
+pyperclip==1.8.2
+vosk==0.3.32
+piper==0.2.0
+soundfile==0.10.3
