@@ -1,4 +1,4 @@
-# Python-AI-Voice_Assistant-LM-Studio
+# Python-AI-Voice-Assistant-LM-Studio
 Python voice assistant with LM Studio. Super simple setup to build off of.
 
 ## Info
